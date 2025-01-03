@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leslie.miranda\\Documents\\ECE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8746419-C867-42B5-9804-D3845C1D939D}|ECE.csproj|c:\\users\\leslie.miranda\\documents\\ece\\model\\dao\\enfermedadcardiovasculardao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8746419-C867-42B5-9804-D3845C1D939D}|ECE.csproj|solutionrelative:model\\dao\\enfermedadcardiovasculardao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnfermedadCardiovascularDao.cs",
+              "DocumentMoniker": "C:\\Users\\leslie.miranda\\Documents\\ECE\\Model\\DAO\\EnfermedadCardiovascularDao.cs",
+              "RelativeDocumentMoniker": "Model\\DAO\\EnfermedadCardiovascularDao.cs",
+              "ToolTip": "C:\\Users\\leslie.miranda\\Documents\\ECE\\Model\\DAO\\EnfermedadCardiovascularDao.cs",
+              "RelativeToolTip": "Model\\DAO\\EnfermedadCardiovascularDao.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAD0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T16:39:49.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
